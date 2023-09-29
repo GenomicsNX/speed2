@@ -13,3 +13,6 @@ For usage, see:
 ```r
 vignette("speed2")
 ```
+
+https://speed2.sys-bio.net/index.html
+
