@@ -16,3 +16,5 @@ vignette("speed2")
 
 https://speed2.sys-bio.net/index.html
 
+https://academic.oup.com/nar/article/48/W1/W307/5822960
+
